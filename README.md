@@ -1,7 +1,12 @@
 # CODSOFT
 
 
-[![Button Text](https://img.shields.io/badge/Intership_Letter-Click%20Here_for_Download-brightgreen)](https://drive.google.com/file/d/1akJmuAJCIsBdC5TXXhjlxBsZ9SrTrnpf/view)
+<!--[![Button Text](https://img.shields.io/badge/Intership_Letter-Click%20Here_for_Download-brightgreen)](https://drive.google.com/file/d/1akJmuAJCIsBdC5TXXhjlxBsZ9SrTrnpf/view)-->
+
+<a href="https://drive.google.com/file/d/1akJmuAJCIsBdC5TXXhjlxBsZ9SrTrnpf/view" target="_blank">
+  <img src="https://img.shields.io/badge/Intership_Letter-Click%20Here_for_Download-brightgreen" alt="Button Text">
+</a>
+
 
 # INSTRUCTIONS
 
