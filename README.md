@@ -18,7 +18,7 @@
 
 3. You can refer to online resources such as Google Search and read tutorials. Watch videos (For Help) make this more attractive.
 
-[![Help](https://img.shields.io/badge/Help-Click%20Here-brightgreen)](https://your-help-link-here.com)
+[![Help](https://img.shields.io/badge/Python-File_Download%20Here-brightgreen)](https://drive.google.com/file/d/1_6v7ONHNEHm_wKeHZ2tyw5ZQfZS_qFpa/view)
 
 # SUBMISSION
 
