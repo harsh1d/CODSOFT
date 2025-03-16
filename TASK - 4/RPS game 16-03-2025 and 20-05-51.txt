@@ -1,0 +1,3 @@
+You: rock, Computer: paper, Result: You lose!
+You: paper, Computer: paper, Result: It's a tie!
+Final Score -> You: 0, Computer: 1
